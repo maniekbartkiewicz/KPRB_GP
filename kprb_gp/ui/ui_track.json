@@ -1,0 +1,12 @@
+ {
+	"name": "KPRB Grand Prix",
+	"description": "Poland Grand Prix",
+	"tags" : ["circuit","original","Poland"],
+	"geotags": ["lat", "lon"],
+	"country": "Poland",
+	"city": "Nowa Sól",
+	"length": "475",
+	"width": "15",
+	"pitboxes": "1",
+	"run": "clockwise"
+}
